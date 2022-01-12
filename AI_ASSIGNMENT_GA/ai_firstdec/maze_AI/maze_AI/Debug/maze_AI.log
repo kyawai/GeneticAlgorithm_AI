@@ -1,0 +1,27 @@
+﻿  Source.cpp
+c:\users\pauli\onedrive\desktop\ai_assignment_ga\ai_firstdec\maze_ai\maze_ai\source.cpp(41): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\pauli\onedrive\desktop\ai_assignment_ga\ai_firstdec\maze_ai\maze_ai\source.cpp(159): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\pauli\onedrive\desktop\ai_assignment_ga\ai_firstdec\maze_ai\maze_ai\source.cpp(322): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\pauli\onedrive\desktop\ai_assignment_ga\ai_firstdec\maze_ai\maze_ai\source.cpp(327): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\pauli\onedrive\desktop\ai_assignment_ga\ai_firstdec\maze_ai\maze_ai\source.cpp(348): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\pauli\onedrive\desktop\ai_assignment_ga\ai_firstdec\maze_ai\maze_ai\source.cpp(366): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\pauli\onedrive\desktop\ai_assignment_ga\ai_firstdec\maze_ai\maze_ai\source.cpp(387): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\pauli\onedrive\desktop\ai_assignment_ga\ai_firstdec\maze_ai\maze_ai\source.cpp(394): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\pauli\onedrive\desktop\ai_assignment_ga\ai_firstdec\maze_ai\maze_ai\source.cpp(405): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\pauli\onedrive\desktop\ai_assignment_ga\ai_firstdec\maze_ai\maze_ai\source.cpp(406): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\pauli\onedrive\desktop\ai_assignment_ga\ai_firstdec\maze_ai\maze_ai\source.cpp(407): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\pauli\onedrive\desktop\ai_assignment_ga\ai_firstdec\maze_ai\maze_ai\source.cpp(427): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\pauli\onedrive\desktop\ai_assignment_ga\ai_firstdec\maze_ai\maze_ai\source.cpp(451): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\pauli\onedrive\desktop\ai_assignment_ga\ai_firstdec\maze_ai\maze_ai\source.cpp(452): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\pauli\onedrive\desktop\ai_assignment_ga\ai_firstdec\maze_ai\maze_ai\source.cpp(461): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\pauli\onedrive\desktop\ai_assignment_ga\ai_firstdec\maze_ai\maze_ai\source.cpp(484): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\pauli\onedrive\desktop\ai_assignment_ga\ai_firstdec\maze_ai\maze_ai\source.cpp(485): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\pauli\onedrive\desktop\ai_assignment_ga\ai_firstdec\maze_ai\maze_ai\source.cpp(490): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\pauli\onedrive\desktop\ai_assignment_ga\ai_firstdec\maze_ai\maze_ai\source.cpp(491): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\pauli\onedrive\desktop\ai_assignment_ga\ai_firstdec\maze_ai\maze_ai\source.cpp(637): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\pauli\onedrive\desktop\ai_assignment_ga\ai_firstdec\maze_ai\maze_ai\source.cpp(29): warning C4101: 'highestFitness': unreferenced local variable
+c:\users\pauli\onedrive\desktop\ai_assignment_ga\ai_firstdec\maze_ai\maze_ai\source.cpp(404): warning C4101: 'temp2': unreferenced local variable
+c:\users\pauli\onedrive\desktop\ai_assignment_ga\ai_firstdec\maze_ai\maze_ai\source.cpp(404): warning C4101: 'temp3': unreferenced local variable
+c:\users\pauli\onedrive\desktop\ai_assignment_ga\ai_firstdec\maze_ai\maze_ai\source.cpp(404): warning C4101: 'temp4': unreferenced local variable
+c:\users\pauli\onedrive\desktop\ai_assignment_ga\ai_firstdec\maze_ai\maze_ai\source.cpp(404): warning C4101: 'temp': unreferenced local variable
+  maze_AI.vcxproj -> C:\Users\pauli\OneDrive\Desktop\AI_ASSIGNMENT_GA\ai_firstdec\maze_AI\Debug\maze_AI.exe
